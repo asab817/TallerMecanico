@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b0e04e-6981-41d9-b2bd-c9ae382a0816" name="Changes" comment="Commit inicial con el enunciado, las dependencias y los tests." />
+    <list default="true" id="f8b0e04e-6981-41d9-b2bd-c9ae382a0816" name="Changes" comment="Commit inicial con el enunciado, las dependencias y los tests.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +55,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sprint_inicial" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -215,11 +222,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Tests in 'org.iesalandalus.programacion.tallermecanico.modelo'" />
-        <item itemvalue="JUnit.org.iesalandalus.programacion.tallermecanico.modelo in TallerMecanicoResuelto.test" />
         <item itemvalue="JUnit.org.iesalandalus.programacion.tallermecanico.modelo in TallerMecanico.test" />
-        <item itemvalue="JUnit.RevisionTest" />
         <item itemvalue="JUnit.ModeloTest" />
+        <item itemvalue="JUnit.RevisionTest" />
+        <item itemvalue="JUnit.org.iesalandalus.programacion.tallermecanico.modelo in TallerMecanicoResuelto.test" />
+        <item itemvalue="Gradle.Tests in 'org.iesalandalus.programacion.tallermecanico.modelo'" />
       </list>
     </recent_temporary>
   </component>

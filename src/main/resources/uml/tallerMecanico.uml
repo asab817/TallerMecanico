@@ -2874,8 +2874,8 @@
 - eventos: Map&lt;Integer, Evento>
 --------------------------------------------------
 - Evento(codigo: int, texto: String)
-+ esValido(codigo: int)
-+ get(codigo: int): Evento
++ &lt;&lt;static>> esValido(codigo: int): boolean
++ &lt;&lt;static>> get(codigo: int): Evento
 + toString(): String</body>
           </ownedComment>
         </packagedElement>
